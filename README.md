@@ -1,4 +1,4 @@
-# Data-Analystics-Projects
+# Bike Sales Analysis
 Bike Sales
 
 Project description: 
