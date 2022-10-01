@@ -6,4 +6,6 @@ The Dataset for this project is in .xlsx. This project was intended to analyze t
 
 I have created an Interactive Dashboard in Excel so anyone can interact with it and also I have added filters to draw more insights by comparing different aspects like you can filter out those who have 0, 1, 2, or 3 cars and find out do they buy bikes or the customer who commute more than others do they buy a bike, etc.
 
+ScreenShot:
+
 ![image](https://user-images.githubusercontent.com/114427519/193429676-d54bcd05-f0c5-4c1d-850d-d9c7f5dba424.png)
