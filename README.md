@@ -2,7 +2,7 @@
 Bike Sales
 
 Project description: 
-The Dataset for this project is in .xlsx. This project was intended to analyze the bike sales data to draw insights on such as 
+This project was intended to analyze the bike sales data to draw insights on such as 
 "Which age group buy more bikes?(Adolescent, Middle age, Old)" 
 "Do the customer who has comparatively more income than others buy the bike or both type of customers?" 
 "Which Gender has more income and does that lead to purhcase a bike?"
