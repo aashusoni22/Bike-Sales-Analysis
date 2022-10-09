@@ -2,9 +2,12 @@
 Bike Sales
 
 Project description: 
-The Dataset for this project is in .xlsx. This project was intended to analyze the bike sales data to draw insights into a few things. Firstly, to find out which age group buy more bikes than other (Adolescent, Middle age, Old) and Secondly, to find out does the customer who has comparatively more income than others buy the bike or both type of customers. I separated males and females and then counted their average income and then compared that with Did they bought a bike or not. 
+The Dataset for this project is in .xlsx. This project was intended to analyze the bike sales data to draw insights on such as 
+"Which age group buy more bikes?(Adolescent, Middle age, Old)" 
+"Do the customer who has comparatively more income than others buy the bike or both type of customers?" 
+"Which Gender has more income and does that lead to purhcase a bike?"
 
-I have created an Interactive Dashboard in Excel so anyone can interact with it and also I have added filters to draw more insights by comparing different aspects like you can filter out those who have 0, 1, 2, or 3 cars and find out do they buy bikes or the customer who commute more than others do they buy a bike, etc.
+Created an Interactive Dashboard in Excel with added filters to draw more insights by comparing different aspects such as filtering out by how many cars customer have to draw insight on do they still bought a bike?
 
 ScreenShot:
 
